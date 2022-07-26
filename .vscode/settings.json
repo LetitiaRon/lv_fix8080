@@ -1,0 +1,24 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM17",
+    "files.associations": {
+        "lv_port_disp.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "lvgl_helpers.h": "c",
+        "lvgl_spi_conf.h": "c",
+        "esp_heap_caps.h": "c",
+        "freertos.h": "c",
+        "*.ipp": "c",
+        "lv_demo_widgets.h": "c",
+        "esp_wifi.h": "c",
+        "complex": "c",
+        "string.h": "c",
+        "task.h": "c",
+        "sdkconfig.h": "c",
+        "ui_helpers.h": "c",
+        "app_main.h": "c"
+    }
+}
